@@ -1,4 +1,4 @@
-me chamo Marina e estou cursando o 2º semestre de Ciência da Computação da PUCRS:)
+me chamo Marina e estou cursando o 3º semestre de Ciência da Computação da PUCRS:)
 
 
-linguagens --> java (intermediário), html(básico)
+linguagens --> java, c, html & swift
