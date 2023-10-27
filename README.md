@@ -4,6 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=20&center=true&vCenter=true&width=600&height=100&lines=Software+Engeneering+Student;++;iOS+Developer,;Digital+Designer,;♥"></a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=20&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;iOS+Developer;Digital+Designer;♥"></a>
+</p>
+
 ---
 
 ## ✿ My Skills
