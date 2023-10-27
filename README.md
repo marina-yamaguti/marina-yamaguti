@@ -1,4 +1,4 @@
-## ★ Hi, I'm <strong>{Marina Yamaguti}!</strong>
+## ★ Hi, I'm <strong> Marina Yamaguti :) </strong>
 
 > I'm a Software Engenering student and iOS developer.
 
