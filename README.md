@@ -1,7 +1,7 @@
 ## ★ Hi, I'm <strong> Marina Yamaguti :) </strong>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%98BF83&size=20&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;iOS+Developer;Digital+Designer;♥"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%BBEDA4&size=20&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;iOS+Developer;Digital+Designer;♥"></a>
 </p>
 
 ---
