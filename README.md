@@ -1,20 +1,14 @@
 ## ★ Hi, I'm <strong> Marina Yamaguti :) </strong>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%BBEDA4&size=20&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;iOS+Developer;Digital+Designer;♥"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%DCF4CD&size=20&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;iOS+Developer;Digital+Designer;♥"></a>
 </p>
 
 ---
 
 ## ✿ My Skills
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<img src="https://img.shields.io/badge/Swift-CD9EAD?style=flat-square" /> <img src="https://img.shields.io/badge/SwiftUI-CDC09E?style=flat-square" /> <img src="https://img.shields.io/badge/UIKit-BECD9E?style=flat-square" />   <img src="https://img.shields.io/badge/Typescript-9ECDA6?style=flat-square" /> <img src="https://img.shields.io/badge/Javascript-9ECDC7?style=flat-square" /> <img src="https://img.shields.io/badge/React.JS-9EA0CD?style=flat-square" />  <img src="https://img.shields.io/badge/CSS-BB9ECD?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-CD9EA9?style=flat-square" /> 
 
 ---
 
