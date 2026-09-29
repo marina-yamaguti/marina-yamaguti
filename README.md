@@ -26,43 +26,41 @@ seeking  → product / software engineering internships in Paris, May–Aug 2027
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="25%" align="center">
 <a href="https://github.com/marina-yamaguti/Iris">
 <img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/iris-cover.webp" width="100%"/>
 </a>
-<br>
-<b>Iris</b> — a story-driven iPad game about living with low vision.<br/>
-<sub>Swift · SwiftUI · Figma — solo, from research to release</sub><br/>
-<img src="https://img.shields.io/badge/WWDC24-Swift%20Student%20Challenge%20winner-FC8B69?style=flat-square&logo=apple&logoColor=302D28"/>
+<br/>
+<sub><b>Iris</b></sub><br/>
+<sub>iPad game about low vision</sub><br/>
+<sub>🏆 WWDC24 winner</sub>
 </td>
-<td width="25%" valign="top">
-<a href="[https://marina-yamaguti.github.io/#wor](https://github.com/VanGo-AGES/vango-frontend)">
+<td width="25%" align="center">
+<a href="https://github.com/VanGo-AGES/vango-frontend">
 <img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/vango-cover.webp" width="100%"/>
 </a>
-<br>
-<b>VanGO</b> — routes, passengers and daily trips for school van drivers.<br/>
-<sub>React Native · Mapbox · Socket.IO · FastAPI · AWS — PM + frontend, team of 18</sub><br/>
-<img src="https://img.shields.io/badge/AGES%20PUCRS-highlighted%20project-C3D6A8?style=flat-square&logoColor=302D28"/>
+<br/>
+<sub><b>VanGO</b></sub><br/>
+<sub>Trips for school van drivers</sub><br/>
+<sub>PM + frontend, team of 18</sub>
 </td>
-</tr>
-<tr>
-<td width="25%" valign="top">
+<td width="25%" align="center">
 <a href="https://marina-yamaguti.github.io/#work">
 <img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/pom-cover.webp" width="100%"/>
 </a>
-<br>
-<b>Pom: Kitty Timer</b> — a Pomodoro timer with cat companions.<br/>
-<sub>Swift · SwiftUI · watchOS · Figma — product design + iOS development</sub><br/>
-<img src="https://img.shields.io/badge/%232%20Productivity-Brazilian%20App%20Store-CCD5FF?style=flat-square&logoColor=302D28"/>
+<br/>
+<sub><b>Pom: Kitty Timer</b></sub><br/>
+<sub>Pomodoro timer, cat companions</sub><br/>
+<sub>#2 Productivity, App Store</sub>
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center">
 <a href="https://marina-yamaguti.github.io/#work">
 <img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/globoid-cover.webp" width="100%"/>
 </a>
-<br>
-<b>GloboID</b> — sign-in for Brazil's largest media group.<br/>
-<sub>Swift · Kotlin · Go · OAuth 2.0 / OIDC — mobile engineer, identity platform</sub><br/>
-<img src="https://img.shields.io/badge/scale-millions%20of%20sign--ins-F7F7F1?style=flat-square&logoColor=302D28"/>
+<br/>
+<sub><b>GloboID</b></sub><br/>
+<sub>Sign-in for Brazil's largest media group</sub><br/>
+<sub>Millions of sign-ins</sub>
 </td>
 </tr>
 </table>
@@ -114,10 +112,22 @@ seeking  → product / software engineering internships in Paris, May–Aug 2027
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=marina-yamaguti&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=FC8B69&icon_color=CCD5FF&text_color=302D28&hide=stars" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marina-yamaguti&hide_border=true&background=00000000&ring=FC8B69&fire=FC8B69&currStreakLabel=302D28&currStreakNum=302D28&sideNums=302D28&sideLabels=302D28&dates=5E594F" width="48%" alt="GitHub streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=marina-yamaguti&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=FC8B69&icon_color=CCD5FF&hide=stars&text_color=F2F2EA">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=marina-yamaguti&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=FC8B69&icon_color=CCD5FF&hide=stars&text_color=302D28">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=marina-yamaguti&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=FC8B69&icon_color=CCD5FF&hide=stars&text_color=302D28" width="48%" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marina-yamaguti&hide_border=true&background=00000000&ring=FC8B69&fire=FC8B69&dates=BDB8AC&currStreakLabel=F2F2EA&currStreakNum=F2F2EA&sideNums=F2F2EA&sideLabels=F2F2EA">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=marina-yamaguti&hide_border=true&background=00000000&ring=FC8B69&fire=FC8B69&dates=BDB8AC&currStreakLabel=302D28&currStreakNum=302D28&sideNums=302D28&sideLabels=302D28">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marina-yamaguti&hide_border=true&background=00000000&ring=FC8B69&fire=FC8B69&dates=BDB8AC&currStreakLabel=302D28&currStreakNum=302D28&sideNums=302D28&sideLabels=302D28" width="48%" alt="GitHub streak"/>
+</picture>
 <br/>
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=marina-yamaguti&layout=compact&hide_border=true&bg_color=00000000&title_color=FC8B69&text_color=302D28&langs_count=8" width="48%" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=marina-yamaguti&layout=compact&hide_border=true&bg_color=00000000&title_color=FC8B69&langs_count=8&text_color=F2F2EA">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=marina-yamaguti&layout=compact&hide_border=true&bg_color=00000000&title_color=FC8B69&langs_count=8&text_color=302D28">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=marina-yamaguti&layout=compact&hide_border=true&bg_color=00000000&title_color=FC8B69&langs_count=8&text_color=302D28" width="48%" alt="Top languages"/>
+</picture>
 
 </div>
 <p align="center"><sub><sub>(stats hosted on a community mirror of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> — the main one is frequently over its free quota)</sub></sub></p>
