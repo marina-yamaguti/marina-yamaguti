@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/marina-hero.webp" width="120" style="border-radius:50%" alt="Marina"/>
+<img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/marina-about.webp" width="120" height="120" style="border-radius:50%;object-fit:cover" alt="Marina"/>
 
 # ★ Hi, I'm Marina Yamaguti
 
