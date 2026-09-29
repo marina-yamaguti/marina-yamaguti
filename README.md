@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/marina-about.webp" width="120" height="120" alt="Marina"/>
-
 # ★ Hi, I'm Marina Yamaguti
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FC8B69&center=true&vCenter=true&width=560&lines=Product+Engineer;iOS+%26+Mobile+Developer;Interaction+Designer;HCI+Researcher" alt="Typing SVG" /></a>
@@ -28,7 +26,7 @@ seeking  → product / software engineering internships in Paris, May–Aug 2027
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 <a href="https://github.com/marina-yamaguti/Iris">
 <img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/iris-cover.webp" width="100%"/>
 </a>
@@ -37,8 +35,8 @@ seeking  → product / software engineering internships in Paris, May–Aug 2027
 <sub>Swift · SwiftUI · Figma — solo, from research to release</sub><br/>
 <img src="https://img.shields.io/badge/WWDC24-Swift%20Student%20Challenge%20winner-FC8B69?style=flat-square&logo=apple&logoColor=302D28"/>
 </td>
-<td width="50%" valign="top">
-<a href="https://marina-yamaguti.github.io/#work">
+<td width="25%" valign="top">
+<a href="[https://marina-yamaguti.github.io/#wor](https://github.com/VanGo-AGES/vango-frontend)">
 <img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/vango-cover.webp" width="100%"/>
 </a>
 <br>
@@ -48,7 +46,7 @@ seeking  → product / software engineering internships in Paris, May–Aug 2027
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 <a href="https://marina-yamaguti.github.io/#work">
 <img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/pom-cover.webp" width="100%"/>
 </a>
@@ -57,7 +55,7 @@ seeking  → product / software engineering internships in Paris, May–Aug 2027
 <sub>Swift · SwiftUI · watchOS · Figma — product design + iOS development</sub><br/>
 <img src="https://img.shields.io/badge/%232%20Productivity-Brazilian%20App%20Store-CCD5FF?style=flat-square&logoColor=302D28"/>
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 <a href="https://marina-yamaguti.github.io/#work">
 <img src="https://cdn.jsdelivr.net/gh/marina-yamaguti/marina-yamaguti.github.io@main/images/globoid-cover.webp" width="100%"/>
 </a>
@@ -109,8 +107,8 @@ seeking  → product / software engineering internships in Paris, May–Aug 2027
 ## ⟡ A few awards
 
 - 🏆 **WWDC24 Swift Student Challenge Winner** · Apple — invited to WWDC24 at Apple Park for [Iris](https://github.com/marina-yamaguti/Iris)
-- 🌸 **SBC/RS Academic Merit Award** & **Meninas Digitais Award** · Brazilian Computer Society
-- ✦ **Best Undergraduate Thesis Award** · AGES, PUCRS
+- **SBC/RS Academic Merit Award** & **Meninas Digitais Award** · Brazilian Computer Society
+- **Best Undergraduate Thesis Award** · AGES, PUCRS
 
 ---
 
