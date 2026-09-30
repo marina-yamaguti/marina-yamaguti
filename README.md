@@ -16,7 +16,6 @@ I'm interested in how things work **and** how they feel to use. I build mobile a
 
 ```
 now      → M.Sc. Computer Science (HCI), Université Paris-Saclay · IDEX Excellence Scholarship
-building → GloboID, the sign-in platform behind Globoplay, Premiere and major live events
 seeking  → product / software engineering internships in Paris, May–Aug 2027
 ```
 
@@ -66,19 +65,6 @@ seeking  → product / software engineering internships in Paris, May–Aug 2027
 </table>
 
 <p align="center"><sub>Case studies for VanGO, Pom and GloboID live on <a href="https://marina-yamaguti.github.io/#work">my portfolio</a> — GloboID is proprietary work, so the visuals there are illustrative.</sub></p>
-
----
-
-## ☾ Where I've been
-
-<table>
-<tr><td><b>Dec 2025 – Aug 2026</b></td><td><b>Mobile Engineer</b>, Globo · Brazil</td><td>Go backend intern, hired full-time after 6 months. Own GloboID features end to end.</td></tr>
-<tr><td><b>Feb 2025 – May 2025</b></td><td><b>iOS Engineer</b>, Hopcast · France (remote)</td><td>Offline device-to-device sharing with Multipeer Connectivity for low-connectivity areas.</td></tr>
-<tr><td><b>Feb 2023 – Dec 2024</b></td><td><b>iOS Developer</b>, Apple Developer Academy · Brazil</td><td>Shipped 5+ apps to the App Store; ran an iOS workshop for girls.</td></tr>
-<tr><td><b>Aug 2022 – Dec 2022</b></td><td><b>HCI Research Scholar</b>, DaVint Lab, PUCRS</td><td>Built a library of 30 interaction patterns for multilingual interfaces.</td></tr>
-</table>
-
-**Studied at** Université Paris-Saclay (M.Sc. HCI, in progress) · PUCRS (B.Sc. Software Engineering, ranked 1st, GPA 9.046/10, Best Undergraduate Thesis) · Grenoble INP – Ensimag (exchange) · ULBRA (Digital Design)
 
 ---
 
